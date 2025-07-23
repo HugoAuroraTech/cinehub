@@ -11,7 +11,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.x-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Vite](https://img.shields.io/badge/Vite-5.x-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 
-[🚀 Demo ao Vivo](https://seu-deploy.vercel.app) | [📱 Recursos](#-recursos) | [⚡ Instalação](#-instalação) | [🛠️ Tecnologias](#️-tecnologias)
+[🚀 Demo ao Vivo](https://cinehub-mw3m.vercel.app/) | [📱 Recursos](#-recursos) | [⚡ Instalação](#-instalação) | [🛠️ Tecnologias](#️-tecnologias)
 
 </div>
 
